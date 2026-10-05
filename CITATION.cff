@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "RtClock"
+abstract: "Real-time timing primitives and schedulability arithmetic — monotonic timebase with measured resolution, period and deadline arithmetic with units, fixed-rate loop driver reporting drift, exact percentile histograms, rate-monotonic and EDF bounds, response-time analysis, priority-ceiling blocking."
+type: software
+authors:
+  - family-names: "Acharya"
+    given-names: "Om"
+    alias: "OmAcharya-avtr"
+repository-code: "https://github.com/OmAcharya-avtr/rtclock"
+license: "MIT"
+version: "0.1.0"
+date-released: "2026-08-30"
+keywords:
+  - aerospace
+  - hardware-in-the-loop
